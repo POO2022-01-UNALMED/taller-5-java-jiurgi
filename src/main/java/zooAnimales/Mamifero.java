@@ -53,4 +53,6 @@ public class Mamifero extends Animal{
 		return new Mamifero(nombre,edad,"selva",genero,true,4);}
 	
 	public boolean isPelaje() {
-		return pelaje;}}
+		return pelaje;
+		}
+	}
